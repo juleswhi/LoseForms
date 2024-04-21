@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoseFormsLib", "LoseFormsLib\LoseFormsLib.csproj", "{5FC0CD5B-9605-436E-89D3-6E6F1B8954DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoseFormsExample", "LoseFormsExample\LoseFormsExample.csproj", "{148BC7D1-387B-453B-88E8-21FAC5D9EFD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC0CD5B-9605-436E-89D3-6E6F1B8954DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC0CD5B-9605-436E-89D3-6E6F1B8954DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC0CD5B-9605-436E-89D3-6E6F1B8954DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC0CD5B-9605-436E-89D3-6E6F1B8954DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148BC7D1-387B-453B-88E8-21FAC5D9EFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148BC7D1-387B-453B-88E8-21FAC5D9EFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148BC7D1-387B-453B-88E8-21FAC5D9EFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148BC7D1-387B-453B-88E8-21FAC5D9EFD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6695B8EC-F485-4820-9301-F82CC59F9080}
+	EndGlobalSection
+EndGlobal
